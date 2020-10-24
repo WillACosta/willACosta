@@ -8,6 +8,8 @@ Olá, eu me chamo William (Will para os íntimos), atualmente atuo como desenvol
 
 "Aquele que luta com monstros deve acautelar-se para não tornar-se também um monstro. Quando se olha muito tempo para um abismo, o abismo olha para dentro de você." ― Friedrich W. Nietzsche
 
+[Meu portfólio](https://willacosta.github.io/portfolio/)
+
 <p align="center">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-plain.svg" alt="angular" width="20" height="20"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"  width="20" height="20"/>
