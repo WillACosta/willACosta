@@ -1,12 +1,9 @@
-### Hi there 👋
-
-<p align="center" style="text-align: center;">
-Olá, eu me chamo William (Will para os íntimos), atualmente atuo como desenvolvedor fullstack. Mas a minha grande paixão e foco dos meus estudos é o Front-End, especialmente o Angular. Sou apaixonado por tecnologia, filosofia e café, estou sempre à procura de novos conhecimentos, para melhorar meus níveis de percepção.
-</p>
+<p align="left" style="text-align: center;">
+Olá, eu me chamo William, atualmente atuo como desenvolvedor fullstack, entretanto meu foco de estudos é o front-end. Sou fascinado em aprender coisas novas e estudar sobre as boas práticas de programação.</p>
 
 <br>
 
-"Aquele que luta com monstros deve acautelar-se para não tornar-se também um monstro. Quando se olha muito tempo para um abismo, o abismo olha para dentro de você." ― Friedrich W. Nietzsche
+<i>"Aquele que luta com monstros deve acautelar-se para não tornar-se também um monstro. Quando se olha muito tempo para um abismo, o abismo olha para dentro de você." ― Friedrich W. Nietzsche</i>
 
 [Meu portfólio](https://willdeveloper.netlify.app/)
 
