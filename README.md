@@ -1,5 +1,5 @@
 <p align="left" style="text-align: center;">
-Olá, eu me chamo William, atualmente atuo como desenvolvedor fullstack, entretanto meu foco é o front-end. Sou fascinado em aprender coisas novas e estudar sobre as boas práticas de programação.</p>
+Olá, eu me chamo William, atualmente atuo como desenvolvedor front-end, utilizando Angular, VueJs e React. Sou fascinado em aprender coisas novas e estudar sobre as boas práticas de programação.</p>
 
 <br>
 
