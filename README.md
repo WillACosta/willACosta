@@ -1,5 +1,5 @@
 <p align="left" style="text-align: center;">
-Olá, eu me chamo William, atualmente atuo como desenvolvedor front-end, utilizando Angular, VueJs e React. Sou fascinado em aprender coisas novas e estudar sobre as boas práticas de programação.</p>
+Olá, eu me chamo William, atualmente atuo como desenvolvedor front-end, utilizando Angular e VueJs, procuro sempre me atualizar sobre o ecosistema do desenvolvimento web para aperfeiçoar ainda mais meus conhecimentos. Sou fascinado em aprender coisas novas e estudar sobre as boas práticas de programação.</p>
 
 <br>
 
