@@ -5,8 +5,6 @@ Olá, eu me chamo William, atualmente atuo como desenvolvedor front-end, utiliza
 
 <i>"Aquele que luta com monstros deve acautelar-se para não tornar-se também um monstro. Quando se olha muito tempo para um abismo, o abismo olha para dentro de você." ― Friedrich W. Nietzsche</i>
 
-[Meu portfólio](https://willdeveloper.netlify.app/)
-
 <!-- <p align="center">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-plain.svg" alt="angular" width="20" height="20"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"  width="20" height="20"/>
@@ -17,7 +15,4 @@ Olá, eu me chamo William, atualmente atuo como desenvolvedor front-end, utiliza
 <img src="https://github-readme-stats.vercel.app/api?username=willACosta&show_icons=true" alt="willACosta"/> 
 </p> -->
 
-<p align="center">
-<a href="https://linkedin.com/in/amaral-william/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="willACosta" height="20" width="20" /></a>
-<a href="https://instagram.com/_will_ac/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="willACosta" height="20" width="20" /></a>
-</p>
+<a href="https://www.linkedin.com/in/amaral-william/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedIn Logo"/></a>
