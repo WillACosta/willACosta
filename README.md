@@ -7,7 +7,7 @@ Olá! Me chamo William, desenvolvedor Frontend e estudante das tecnologias relac
 
 ---
 
-Hi there! I'm William, currently, I'm a front-end developer and I study about technologys of Back-End, DevOps and a little bit about UI/UX. I like always updated and read about clean code, SOLID, and other best coding practices.
+Hi! I'm William, currently, I'm a front-end developer and I study about technologys of Back-End, DevOps and a little bit about UI/UX. I like always updated and read about clean code, SOLID, and other best coding practices.
 
 <br>
 
