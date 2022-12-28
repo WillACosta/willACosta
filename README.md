@@ -14,5 +14,5 @@ Hi! I'm William, currently, I work as a front-end developer and I study Back-End
 <i>"When you look long into an abyss, the abyss looks into you." ― Friedrich W. Nietzsche</i>
 
 <a href="https://www.linkedin.com/in/amaral-william/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedIn Logo"/></a>
-<a href="https://www.linkedin.com/in/amaral-william/(https://medium.com/@willAmaral)(https://medium.com/@willAmaral)"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Logo"/></a>
+<a href="https://medium.com/@willAmaral"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Logo"/></a>
 <a href="https://www.instagram.com/wiidev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Logo"/></a>
