@@ -1,5 +1,5 @@
 <p align="left" style="text-align: center;">
-Olá! Me chamo William, desenvolvedor Frontend e estudante das tecnologias relacionadas ao Back-End, DevOps e ainda sobre UI/UX. Gosto de me manter sempre atualizado e ler sobre conceitos como clean code, SOLID, entre outras boas práticas de programação.</p>
+Olá! Me chamo William, atuo como desenvolvedor front-end, atualmente estou buscando focar em desenvolvimento mobile, principalmente com Flutter e Android nativo. Gosto de me manter sempre atualizado e ler sobre conceitos como clean code, SOLID, entre outras boas práticas de programação.</p>
 
 <br>
 
@@ -7,7 +7,7 @@ Olá! Me chamo William, desenvolvedor Frontend e estudante das tecnologias relac
 
 ---
 
-Hi! I'm William, currently, I work as a front-end developer and I study Back-End, DevOps, and a little bit UI/UX. I like to keep myself updated and read about clean code, SOLID, and other best coding practices.
+Hi! I'm William, I'm a front-end developer, actualy I'm focused in mobile development with Flutter and Native Android (Kotlin). I like to keep myself updated and read about clean code, SOLID, and other best coding practices.
 
 <br>
 
