@@ -7,7 +7,7 @@ Olá! Me chamo William, atuo como desenvolvedor front-end, atualmente estou busc
 
 ---
 
-Hi! I'm William, I'm a front-end developer, actualy I'm focused in mobile development with Flutter and Native Android (Kotlin). I like to keep myself updated and read about clean code, SOLID, and other best coding practices.
+Hi! I'm William, I'm a front-end developer, actually I'm focused on mobile development with Flutter and Native Android (Kotlin). I like to keep myself updated and read about clean code, SOLID, and other best coding practices.
 
 <br>
 
