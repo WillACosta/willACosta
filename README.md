@@ -16,3 +16,4 @@ Hi! I'm William, I'm a front-end developer, actually I'm focused on mobile devel
 <a href="https://www.linkedin.com/in/amaral-william/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedIn Logo"/></a>
 <a href="https://medium.com/@willAmaral"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Logo"/></a>
 <a href="https://www.instagram.com/wiidev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Logo"/></a>
+<a href="https://dribbble.com/will_ac/shots"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribble Logo"/></a>
