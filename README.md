@@ -1,5 +1,4 @@
-
-Passionate about techonology, frontend and mobile development. I enjoy reading about best practices of software development and keeping myself up to date, always as possible, I try to share my knowledge in Medium articles or posts on my social media.
+Passionate about technology, frontend, and mobile development, I enjoy reading about best practices in software development and keeping myself up to date. Whenever possible, I try to share my knowledge through Medium articles or posts on my social media.
 
 <i>"When you look long into an abyss, the abyss looks into you." ― Friedrich W. Nietzsche</i>
 
